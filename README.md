@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm just a simple coder making his way through the world.<br>I do Flutter and backend stuff, hit me up if you have so interesting projects to work on.
+I'm just a simple coder making his way through the world.<br>I do Flutter and backend stuff, hit me up if you have some interesting projects to work on.
 
 
 ## 🌐 Socials:
