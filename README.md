@@ -1,5 +1,8 @@
 ### Hi there 👋
-
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
+ 
+ Im just a simple coder making his way through the galaxy
+ 
 <!--
 **smahesh77/smahesh77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
