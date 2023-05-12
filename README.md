@@ -1,4 +1,4 @@
-<h1 align="center">Hello there 👋, I'm S Mahesh</h1>
+<h1 align="center">Hello there 👋, I'm Mahesh</h1>
 <h3 align="center">I'm just a simple code making his way through the world.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=smahesh77&label=Profile%20views&color=0e75b6&style=flat" alt="smahesh77" /> </p>
