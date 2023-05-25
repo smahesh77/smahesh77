@@ -1,7 +1,7 @@
 
 <h1 align="center">The Man, The Myth, The Coder</h1>
 
-I'm just a simple coder making his way through the galaxy.<br>I do Flutter and backend stuff, hit me up if you have some interesting projects to work on.
+I'm just a simple coder making his way through the galaxy.<br>I do Flutter, React and backend stuff, hit me up if you have some interesting projects to work on.
 
 
 ## 🌐 Socials:
